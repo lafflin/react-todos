@@ -1,5 +1,5 @@
 const Header = () => {
-	return <div>123</div>;
+	return <div>TT: Todo Tracker</div>;
 };
 
 export default Header;
