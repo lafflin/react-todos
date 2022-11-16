@@ -1,3 +1,5 @@
+import * as React from "react";
+
 const Footer = () => {
 	return (
 		<div class="bg-zinc-300 text-zinc-900">

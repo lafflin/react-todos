@@ -1,5 +1,11 @@
+import * as React from "react";
+
 const Todo = () => {
-	return <div>TODO CONTENT</div>;
+	return (
+		<div>
+			<div>TODO CONTENT</div>
+		</div>
+	);
 };
 
 export default Todo;
